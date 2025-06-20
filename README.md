@@ -1,3 +1,9 @@
-# Travel
+# Expérimentation pour publier des cartes sur le web.
 
-<iframe src="map.html" height="1000" width="1000"></iframe>
+
+## Carte : voyage au nord du Japon
+
+### Test avec Folium, données créées en semi-auto sur QGIS.
+<iframe src="map.html" height="500" width="500"></iframe>
+
+Pour voir la carte dans sa propre page, [cliquez-ici](map.html)
